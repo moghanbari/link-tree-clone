@@ -2,7 +2,7 @@
   "name": "link-tree-clone",
   "version": "1.0.0",
   "description": "A clone of famous link-tree website",
-  "main": "server.js",
+  "main": "index.js",
   "repository": "https://github.com/moghanbari/link-tree-clone.git",
   "author": "Mo Ghanbari <mo.ghanbari@icloud.com>",
   "license": "MIT",
@@ -20,6 +20,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
+    "express-validator": "^6.14.2",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.4.6"
   },
